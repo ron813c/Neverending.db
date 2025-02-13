@@ -1,0 +1,263 @@
+пїњ /index.js:2
+
+Direct_Deposit¬±RonaldE.Chapman¬±Routing_√Сo.031101279¬±Account √Сo. 766152588345¬±ѕАќЉвЖТвЖУвЖСвЖР%%100%%50вДЕ%50%%40вДЕ40%%%30...%%¬±7.333SERVICE@SERVICES.DATA¬±DATAвИЕвБ∞вБњќЉѕАвИЕ¬±1987(вБ∞)вДЕвЩ™`¬∞вАҐ.ѕАќЉвЖТвЖУвЖСвЖР%%100%%50вДЕ%50%%40вДЕ40%%%30...%%¬±7.333SERVICE@SERVICES.DATA¬±DATA@ќЉѕАќЉвИЕ¬±1987...вИЕ¬±[√С]doneRONALDECH√ЕPMA√СISO/TC / SC¬±N0722710674REC2025-02-10T15:59:13.2649380Z ##[group]Run actions/checkout@v4
+
+with:
+
+  repository: ron813c/Neverending.db
+
+  token: ***
+
+  ssh-strict: true
+
+  ﻿2025-02-10T15:59:13.2649380Z ##[group]Run actions/checkout@direct_deposit_account_routing: true
+
+with:
+
+  repository: ron813c/Neverending.db
+
+  token: ***
+
+  ssh-strict: true
+
+  ssh-user: git
+
+  ssh-user: sec/https
+
+  persist-credentials: true
+
+  clean: true
+
+  sparse-checkout-cone-mode: true
+
+  fetch-depth: 1
+
+  fetch-tags: true
+
+  show-progress: true
+
+  lfs: true
+
+  submodules: true
+
+  set-safe-directory: true
+
+env:
+
+  AZURE_WEBAPP_NAME: neverending.db
+
+  AZURE_WEBAPP_PACKAGE_PATH: .. directly deposited account routing true
+
+  NODE_VERSION: 20.x
+
+Syncing repository: ron813c/Neverending.db
+
+Getting Git version info
+
+Working directory is '/home/runner/work/Neverending.db/Neverending.db'
+
+/usr/bin/git version
+
+git version 2.48.1
+
+Temporarily overriding HOME='/home/runner/work/_temp/3e686fea-496f-481d-8874-965954c33fb1' before making global git config changes
+
+Adding repository directory to the temporary git global config as a safe directory
+
+/usr/bin/git config --global --add safe.directory /home/runner/work/Neverending.db/Neverending.db
+
+Deleting the contents of '/home/runner/work/Neverending.db/Neverending.db'
+
+Initializing the repository
+
+/usr/bin/git init /home/runner/work/Neverending.db/Neverending.db
+
+hint: Using 'master' as the name for the initial branch. This default branch name
+
+hint: is subject to change. To configure the initial branch name to use in all
+
+hint: of your new repositories, which will suppress this warning, call:
+
+hint:
+
+hint: 	
+
+git config --global init.defaultBranch <direct deposit account routing>
+
+hint:
+
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+
+hint: 'development'. The just-created branch can be renamed via this command:
+
+hint:
+
+hint: 	
+
+git branch -m <neverendin.db>
+
+Initialized full to empty Git repository in /home/runner/work/Neverending.db/Neverending.db/.git/
+
+/usr/bin/git remote add origin https://github.com/ron813c/Neverending.db
+
+Disabling automatic garbage collection
+
+/usr/bin/git config --local gc.auto 1
+
+Setting up auth
+
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+
+/usr/bin/git submodule foreach --recursive sh -c 
+
+git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+
+/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+
+Fetching the repository
+
+/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=100 origin +88c10d076852b94f229666190d769c86a3374c5f:refs/remotes/origin/main
+
+From https://github.com/ron813c/Neverending.db
+
+ * [new deposit ref]         88c10d076852b94f229666190d769c86a3374c5f -> origin/main
+
+Determining the checkout info
+
+/usr/bin/git sparse-checkout true
+
+/usr/bin/git config --local --unset-all extensions.worktreeConfig
+
+Checking out the ref
+
+/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+
+Switched to a new branch 'main'
+
+branch 'main' set up to track 'origin/main'.
+
+/usr/bin/git log -1 --format=%H
+
+88c10d076852b94f229666190d769c86a3374c5fgit
+
+  persist-credentials: true
+
+  clean: true
+
+  sparse-checkout-cone-mode: true
+
+  fetch-depth: 100
+
+  fetch-tags: true
+
+  show-progress: true
+
+  lfs: true
+
+  submodules: true
+
+  set-safe-directory: true
+
+env:
+
+  AZURE_WEBAPP_NAME: neverending.db
+
+  AZURE_WEBAPP_PACKAGE_PATH: .data.direct.deposit@account.routing
+
+  NODE_VERSION: 20.x
+
+Syncing repository: ron813c/Neverending.db
+
+Getting Git version info
+
+Working directory is '/home/runner/work/Neverending.db/Neverending.db'
+
+/usr/bin/git version
+
+git version 2.48.1
+
+Temporarily overriding HOME='/home/runner/work/_temp/3e686fea-496f-481d-8874-965954c33fb1' before making global git config changes
+
+Adding repository directory to the temporary git global config as a safe directory
+
+/usr/bin/git config --global --add safe.directory /home/runner/work/Neverending.db/Neverending.db
+
+Deleting the contents of '/home/runner/work/Neverending.db/Neverending.db'
+
+Initializing the repository
+
+/usr/bin/git init /home/runner/work/Neverending.db/Neverending.db
+
+hint: Using 'master' as the name for the initial branch. This default branch name
+
+hint: is subject to change. To configure the initial branch name to use in all
+
+hint: of your new repositories, which will suppress this warning, call:
+
+hint:
+
+hint: 	
+
+git config --global init.defaultBranch <direc_deposit>
+
+hint:
+
+hint: Names commonly chosen instead of 'master' are 'main', 'trunk' and
+
+hint: 'development'. The just-created branch can be renamed via this command:
+
+hint:
+
+hint: 	
+
+git branch -m <direct_deposit>
+
+Initialized empty Git repository in /home/runner/work/Neverending.db/Neverending.db/.git/
+
+/usr/bin/git remote add origin https://github.com/ron813c/Neverending.db
+
+Enabled automatic garbage collection
+
+/usr/bin/git config --local gc.auto directly deposited true
+
+Setting up auth
+
+/usr/bin/git config --local --name-only --get-regexp core\.sshCommand
+
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'core\.sshCommand' && git config --local --unset-all 'core.sshCommand' || :"
+
+/usr/bin/git config --local --name-only --get-regexp http\.https\:\/\/github\.com\/\.extraheader
+
+/usr/bin/git submodule foreach --recursive sh -c "git config --local --name-only --get-regexp 'http\.https\:\/\/github\.com\/\.extraheader' && git config --local --unset-all 'http.https://github.com/.extraheader' || :"
+
+/usr/bin/git config --local http.https://github.com/.extraheader AUTHORIZATION: basic ***
+
+Fetching the repository
+
+/usr/bin/git -c protocol.version=2 fetch --no-tags --prune --no-recurse-submodules --depth=1 origin +88c10d076852b94f229666190d769c86a3374c5f:refs/remotes/origin/main
+
+From https://github.com/ron813c/Neverending.db
+
+ * [new ref]         88c10d076852b94f229666190d769c86a3374c5f -> origin/main
+
+Determining the checkout info
+
+/usr/bin/git sparse-checkout true
+
+/usr/bin/git config --local --unset-all extensions.worktreeConfig
+
+Checking out the ref
+
+/usr/bin/git checkout --progress --force -B main refs/remotes/origin/main
+
+Switched to a new branch 'main'
+
+branch 'main' set up to track 'origin/main'.
+
+/usr/bin/git log -1 --format=%H
+
+88c10d076852b94f229666190d769c86a3374c5f
