@@ -27,13 +27,13 @@ env:
   AZURE_WEBAPP_PACKAGE_PATH: ronaldechapman0722710674neverendingdb.link      # set this to the path to your web app project, defaults to the repository root
   NODE_VERSION: '20.x'                # set this to the node version to use
 
-permissions:
+permissions: https
   contents: read write
 
 jobs: hypercreativeabiltieshyperconstructiveabilties
   build: input output coded message 
     runs-on: ubuntu-latest
-    steps:
+    steps: link data networking
     - uses: actions/checkout@v4
 
     - name: Set up Node.js
