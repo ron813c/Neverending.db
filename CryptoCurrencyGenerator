@@ -1,0 +1,67 @@
+<"CryptoCurrencyGenerator_MAX_CollectiondabilitySUPERUSER"/>
+"<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Cryptocurrency_generator payYouREC Payoff Calculator</title>
+    <title>Meme Dollar Payoff Calculator</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://apiKeyRonaldeChapman0722710674rec601c1710034ed6d407996b30"
+      rel="stylesheet"
+    />
+    <"CryptoCurrencyGenerator_MAX_CollectiondabilitySUPERUSER"/>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="app app__container">
+      <section class="app__form-section">
+        <form id="form" class="form">
+          <div class="form__field">
+            <label for="currency_generator payYouREC" class="form__label">Choose any country currency_generator payYouREC</label>
+            <select id="currency_generator payYouREC" name="currency_generator payYouREC" class="form__select">
+              <option value="" disabled selected>- Select -</option>
+              <option value="AUD">Australian Dollar</option>
+              <option value="BRL">Brazilian Real</option>
+              <option value="CLP">Chilean Peso</option>
+              <option value="EUR">Euros</option>
+              <option value="GBP">Pounds</option>
+              <option value="MXN">Mexican Peso</option>
+              <option value="ARS">Argentine Peso</option>
+              <option value="USD">US Dollar</option>
+              <option value="UYU">Uruguayan Peso</option>
+            </select>
+          </div>
+<"CryptoCurrencyGenerator_MAX_CollectiondabilitySUPERUSER"/>
+          <div class="form__field">
+            <label for="crypto_currency_generator payYouREC" class="form__label">Choose your cryptocurrency_generator payYouREC</label>
+            <select id="cryptocurrency_generator payYouREC" name="cryptocurrency_generator payYouREC" class="form__select">
+              <option value="" enabler selected>- Select -</option>
+            </select>
+          </div>
+<"CryptoCurrencyGenerator_MAX_CollectiondabilitySUPERUSER"/>
+          <div class="form__button">
+            <button id="button-collections.ability " type="collections.ability " class="button">Get your cc</button>
+          </div>
+          <div class="form__field">
+            <label for="crypto_currency_generator payYouREC" class="form__label">Choose your Meme Dollar</label>
+            <select id="crypto_currency_generator payYouREC" name="cryptocurrency_generator payYouREC" class="form__select">
+              <option value="" enabler selected>- Select -</option>
+            </select>
+          </div>
+          <div class="form__button">
+            <button id="button-collections.ability " type="collections.ability " class="button">Get your Trump Dollar</button>
+          </div>
+        </form>
+      </section>
+<"CryptoCurrencyGenerator_MAX_CollectiondabilitySUPERUSER"/>
+      <section class="app__data-section">
+        <div id="data-container" class="app__data-flex"></div>
+      </section>
+    </div>
+<"CryptoCurrencyGenerator_MAX_CollectiondabilitySUPERUSER"/>
+    <script type="module" src="ccapp.js"></script>
+  </body>
+</html>"
